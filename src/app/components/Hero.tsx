@@ -28,7 +28,7 @@ export const Hero = () => {
             </motion.span>
             <h1 className="text-6xl lg:text-8xl font-black text-white leading-[0.9] mb-10 tracking-tighter">
               MATTHIAS <br />
-              <span className="text-transparent bg-clip-text bg-gradient-to-r from-emerald-300 to-emerald-500">JOANA EARLY</span>
+              <span className="text-transparent bg-clip-text bg-gradient-to-r from-emerald-300 to-emerald-500">EARLY</span>
             </h1>
             <p className="text-xl text-gray-400 mb-12 leading-relaxed max-w-xl font-medium">
               A transformative leader for a modern community. Dedicated to progress, equality, and sustainable innovation for every resident.
@@ -53,7 +53,7 @@ export const Hero = () => {
             <div className="aspect-[4/5] relative rounded-[2rem] overflow-hidden shadow-[0_0_50px_rgba(0,0,0,0.5)] z-20 border border-white/10 group">
               <ImageWithFallback
                 src="/hero.jpeg"
-                alt="Matthias Joana Early"
+                alt="Matthias Early"
                 className="w-full h-full object-cover transition-all duration-700 scale-105 group-hover:scale-100"
               />
               <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-transparent to-transparent opacity-60" />

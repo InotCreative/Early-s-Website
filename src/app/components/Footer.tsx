@@ -52,7 +52,7 @@ export const Footer = () => {
         </div>
         
         <div className="flex flex-col md:flex-row justify-between items-center gap-10 text-gray-600 text-[10px] font-black tracking-[0.2em] uppercase">
-          <p>© 2026 PAID FOR BY MATTHIAS JOANA EARLY FOR OFFICE.</p>
+          <p>© 2026 PAID FOR BY MATTHIAS EARLY FOR OFFICE.</p>
           <div className="flex gap-10">
             <a href="#" className="hover:text-white transition-colors">Privacy</a>
             <a href="#" className="hover:text-white transition-colors">Terms</a>

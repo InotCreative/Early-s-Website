@@ -52,7 +52,7 @@ export const AboutSection = () => {
                   />
                 </div>
                 <div>
-                  <p className="font-black text-2xl tracking-tight">Matthias Joana Early</p>
+                  <p className="font-black text-2xl tracking-tight">Matthias Early</p>
                   <p className="text-emerald-400 font-bold tracking-widest text-xs uppercase">Democratic Candidate for Office</p>
                 </div>
               </div>
