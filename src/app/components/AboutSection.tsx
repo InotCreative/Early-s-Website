@@ -31,17 +31,7 @@ export const AboutSection = () => {
                   </p>
                 </div>
               </div>
-              <div className="flex gap-8 group">
-                <div className="flex-shrink-0 w-16 h-16 bg-white/5 border border-white/10 rounded-2xl flex items-center justify-center text-emerald-300 group-hover:bg-emerald-400 group-hover:text-white transition-all duration-300">
-                  <MessageSquare size={32} />
-                </div>
-                <div>
-                  <h3 className="text-2xl font-black text-white mb-3 tracking-tight">Climate Justice</h3>
-                  <p className="text-gray-400 leading-relaxed text-lg">
-                    Climate change is the defining challenge of our generation. I will advocate for green energy initiatives that create jobs while protecting our natural resources and ensuring a livable planet for our children.
-                  </p>
-                </div>
-              </div>
+
             </div>
           </div>
 
@@ -58,7 +48,7 @@ export const AboutSection = () => {
                   <ImageWithFallback
                     src="/hero.jpeg"
                     alt="Matthias Early"
-                    className="w-full h-full object-cover grayscale brightness-125"
+                    className="w-full h-full object-cover brightness-110"
                   />
                 </div>
                 <div>
